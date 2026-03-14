@@ -33,6 +33,7 @@ Atuei como Administrador de Nuvem para hospedar uma aplicação web, separando a
     * Acesso ao aplicativo via IP público do servidor web.
     * Configuração do *Endpoint* do banco de dados na aplicação.
     * Realização de testes de persistência (leitura e escrita de dados).
+    * ![Carga rds](https://github.com/imarques-codes/AWS-RDS/blob/main/git-rds/rds-carga.png?raw=true)
 
 ---
 
