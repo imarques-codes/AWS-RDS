@@ -28,6 +28,7 @@ Atuei como Administrador de Nuvem para hospedar uma aplicação web, separando a
 **Segurança de Rede:** Criação de um Grupo de Segurança específico para o banco de dados, restringindo o acesso apenas ao servidor web.
 ![Security group](https://github.com/imarques-codes/AWS-RDS/blob/main/git-rds/rds%20sg.png?raw=true)
 **Configuração de Sub-redes:** Definição de um Grupo de Sub-redes de Banco de Dados para determinar em quais zonas da VPC o RDS poderia operar.
+
 **Provisionamento do RDS:** Instalação de uma instância MySQL com **Alta Disponibilidade (Multi-AZ)**, garantindo que, em caso de falha em uma Zona de Disponibilidade, uma instância de reserva assuma automaticamente (**Failover**).
 ![criacao](https://github.com/imarques-codes/AWS-RDS/blob/main/git-rds/rds%20criacao.png?raw=true)
 **Integração e Teste:**
