@@ -1,7 +1,7 @@
 # AWS-RDS
-WS Lab: Implementação de Banco de Dados Gerenciado com Amazon RDS ☁️🗄️
+WS Lab: Implementação de Banco de Dados Gerenciado com Amazon RDS 
 
-Este repositório contém o registro técnico do **Laboratório 5 do curso AWS Cloud Foundations**. O foco do projeto foi a criação de uma infraestrutura de banco de dados relacional resiliente, segura e integrada a uma aplicação web real.
+Este repositório contém registro técnico. O foco do projeto foi a criação de uma infraestrutura de banco de dados relacional resiliente, segura e integrada a uma aplicação web real.
 
 ## Visão Geral
 O objetivo principal foi reforçar o conceito de utilização do **Amazon Relational Database Service (Amazon RDS)** para atender necessidades de bancos de dados relacionais, delegando tarefas administrativas pesadas (backups, patches e replicação) para a AWS.
